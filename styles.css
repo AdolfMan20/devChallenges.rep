@@ -1,7 +1,6 @@
 body {
     height: 100vh;
     padding-top: 10%;
-
 }
 
 .content {
@@ -10,6 +9,7 @@ body {
     box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     border-radius: 10px;
     padding-bottom: 5px;
+    max-width: 500px;
 }
 
 .design-par{
